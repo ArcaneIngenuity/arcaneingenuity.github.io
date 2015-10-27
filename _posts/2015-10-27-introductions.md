@@ -4,7 +4,7 @@ title: Introductions!
 ---
 
 What's going on?
-================
+----------------
 
 First off: Greetings!
 
@@ -15,7 +15,7 @@ The game is a first/third person hybrid FPS/RTS/RPG (all that), with a focus on 
 Visually, WA takes a fairly abstract approach, so if you enjoyed Damocles, Darwinia, Elite, Carrier Command, Journey, Proteus, World of Goo, Worms and the like, you will probably enjoy what is in store. I grew up in the 80's when games were by necessity more abstract than they are now, which can inspire the imagination, so I like simple, soothing visuals and unobtrusive soundtracks, and meaningful gaming experiences where possible. Having said that, explosions _are_ on the cards.
 
 TL;DR - Technicalities
-======================
+----------------------
 
 Some of you may know me from gamedev.SE, I'm [Arcane Engineer](http://gamedev.stackexchange.com/users/5473/arcane-engineer), no. 12 out of 55000 users there, so I like to think I'm qualified if not as hot as some of the other hotshots &#58) Procedural generation is a major focus of mine. For those of you not familiar with the term, it means automatic generation of environments as found in games like Diablo, Minecraft, XCom, Moria etc. I also work directly with OpenGL 3D graphics, although I'm still a neophyte in that area.
 
