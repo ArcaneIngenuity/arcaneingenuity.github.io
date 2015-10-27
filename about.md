@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm [Arcane Engineer](http://gamedev.stackexchange.com/users/5473/arcane-engineer), in top 0.02% of all users on gamedev SE. [Arcane Ingenuity](http://arcaneingenuity.com/) is my operation.
+I'm [Arcane Engineer](http://gamedev.stackexchange.com/users/5473/arcane-engineer), in top 0.02% of all users on gamedev SE.
+
+[Arcane Ingenuity](http://arcaneingenuity.com/) is my operation. In the past the company has quietly contracted its services out in terms of games and real-time apps consultancy and development, both web and native, for the UK market. It is now forming its own identity.
 
 ### More Information
 
