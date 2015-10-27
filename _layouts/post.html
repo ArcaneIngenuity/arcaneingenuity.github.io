@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <article class="post">
 
@@ -17,4 +18,5 @@ layout: default
 
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
+	{% include disqus.html %}
 </article>
