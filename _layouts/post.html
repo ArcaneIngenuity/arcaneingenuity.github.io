@@ -1,17 +1,20 @@
 ---
 layout: default
 ---
-
 <article class="post">
-  <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+	{% if page.external-url %}
+		<h3 class="header-level-1">
+			<a href="{{ page.external-url }}">{{ page.title }}</a>
+		</h3>
+	{% else %}
+		<h3 class="header-level-1">
+		  <a href="{{ page.url }}">{{ page.title }}</a>
+		</h3>
+	{% endif %}
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+	<div class="post-content">{{ content }}</div>
 
-  {% include disqus.html %}
+	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+
 </article>
