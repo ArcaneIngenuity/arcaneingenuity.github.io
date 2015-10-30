@@ -54,7 +54,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 pygments: true
 permalink: /:year/:month/:day/:title/
 paginate: 10
