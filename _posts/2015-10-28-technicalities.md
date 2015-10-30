@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Technicalities...
+tags: [WarAdventure, arc, orb, tech]
 ---
 
 I'm [Arcane Engineer](http://gamedev.stackexchange.com/users/5473/arcane-engineer), some may know me from gamedev.SE where I'm no. 13 out of 55000 users... I like to think I'm qualified if not as hot as some of the other hotshots ;) Procedural generation is a major focus of mine. For those not familiar with the term, it means automatic generation of content / environments as found in games like Diablo, Minecraft, XCom, Moria etc. I work in C and OpenGL to provide maximum control and responsiveness.

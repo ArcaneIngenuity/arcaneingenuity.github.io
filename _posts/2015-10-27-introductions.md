@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Introductions!
+tags:
+- WarAdventure
+- arc
 ---
 
 Development of the game **War & Adventure (WA)** is documented here.

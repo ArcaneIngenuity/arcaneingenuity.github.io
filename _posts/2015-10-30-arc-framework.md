@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Arc Framework&#58; Runthrough and Loose Ends
+tags:
+- arc
 ---
 
 Today I'll be talking about [arc](https://github.com/ArcaneIngenuity/arc), which is the basis for War & Adventure. This will only be of interest to developers and techish sorts; others will have to wait until tomorrow when I'll post some visuals of engine work to date.
