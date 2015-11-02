@@ -15,8 +15,9 @@ A look ahead
 ------------
 
 Short-term goals are to get War & Adventure's
- - UI panels up and running / interactive;
- - text rendering reinstated, and implement a basic monospaced system for display thereof;
- - basic lobby up, where player(s) will configure world / game settings.
+
+ * UI panels up and running / interactive;
+ * text rendering reinstated, and implement a basic monospaced system for display thereof;
+ * basic lobby up, where player(s) will configure world / game settings.
 
 Beyond that, I'll be rewriting the data model for terrain while re-working rendering thereof, re-instating the first person view. After that I hope  to spend some time focusing heavily on the environment to give you all something nice to look at.
